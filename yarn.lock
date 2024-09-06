@@ -28,10 +28,10 @@ concat-map@0.0.1:
   resolved "https://registry.npmjs.org/concat-map/-/concat-map-0.0.1.tgz"
   integrity sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=
 
-esbuild-darwin-arm64@0.14.54:
+esbuild-darwin-64@0.14.54:
   version "0.14.54"
-  resolved "https://registry.npmjs.org/esbuild-darwin-arm64/-/esbuild-darwin-arm64-0.14.54.tgz"
-  integrity sha512-OPafJHD2oUPyvJMrsCvDGkRrVCar5aVyHfWGQzY1dWnzErjrDuSETxwA2HSsyg2jORLY8yBfzc1MIpUkXlctmw==
+  resolved "https://registry.npmjs.org/esbuild-darwin-64/-/esbuild-darwin-64-0.14.54.tgz"
+  integrity sha512-jtdKWV3nBviOd5v4hOpkVmpxsBy90CGzebpbO9beiqUYVMBtSc0AL9zGftFuBon7PNDcdvNCEuQqw2x0wP9yug==
 
 esbuild@^0.14.27:
   version "0.14.54"
@@ -92,10 +92,10 @@ glob@^7.1.3:
     once "^1.3.0"
     path-is-absolute "^1.0.0"
 
-gsap@^3.9.1:
-  version "3.9.1"
-  resolved "https://registry.npmjs.org/gsap/-/gsap-3.9.1.tgz"
-  integrity sha512-JSGVYoC6da4pIjdF/yxFU6Rz8OojOIDkbooveZlfNg0+JIoFoRruyfWAEi6R/gUeNcuOiTqUIb0gi1nCNrHf8w==
+"gsap@npm:@gsap/shockingly@^3.12.5":
+  version "3.12.5"
+  resolved "https://npm.greensock.com/@gsap%2fshockingly/-/shockingly-3.12.5.tgz"
+  integrity sha512-JoZp6iYvOC+wkwl8zfXSqSrYCcuzTntaULCL08YMa1vonrYcr9D0K3EUe9PNpw7FYK1chjSwjjgcw3zS/O2SWg==
 
 has@^1.0.3:
   version "1.0.3"

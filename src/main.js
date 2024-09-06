@@ -1,3 +1,3 @@
-import './styles/style.css'
+import './styles/global.css'
 
-console.log('Hello')
+console.log('Global Deplyed')
